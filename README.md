@@ -16,9 +16,9 @@ A simple and interactive web-based background generator that allows users to cus
 - CSS
 - JavaScript
 
-## Screenshot
+## 📸 Preview
 
-![Background Generator Screenshot](![project7](https://github.com/user-attachments/assets/63a17103-b12a-47f5-9d69-b3bea3cdc74f)
+![Screenshot 2025-06-22 162630](![project7](https://github.com/user-attachments/assets/33dac646-04bc-400f-b279-518f31a5f260)
 )
 
 ## **Aim**
